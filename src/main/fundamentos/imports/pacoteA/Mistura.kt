@@ -1,4 +1,4 @@
-package testeimport.pacoteA
+package imports.pacoteA
 
 fun simplesFuncao(texto: String): String {
     return "Texto = $texto"
