@@ -5,18 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b09ed27-eee2-404a-8f2c-3cfb8fa3f456" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/controles/For1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/controles/IfElse.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/controles/IfElse2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/controles/IfElseIf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/controles/RefatorandoParaWhen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/controles/While1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/controles/While2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/controles/Break1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/controles/Break2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/controles/Continue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/controles/DoWhile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/controles/For2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/controles/For3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/controles/For4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/operadores/Aritmeticos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/operadores/Atribuicao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/operadores/Destructuring.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/operadores/Logicos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/operadores/Relacionais.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/operadores/Ternario1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/operadores/Ternario2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/fundamentos/operadores/Unarios.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/fundamentos/controles/If.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/fundamentos/controles/If.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/fundamentos/testeimport/TesteImport.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/fundamentos/imports/TesteImport.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/fundamentos/testeimport/pacoteA/Mistura.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/fundamentos/imports/pacoteA/Mistura.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/fundamentos/testeimport/pacoteB/Matematica.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/fundamentos/imports/pacoteB/Matematica.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,37 +67,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.For1Kt">
-    <configuration name="For1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controles.For1Kt" />
+  <component name="RunManager" selected="Kotlin.LogicosKt">
+    <configuration name="AritmeticosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operadores.AritmeticosKt" />
       <module name="udemy-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseIfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controles.IfElseIfKt" />
+    <configuration name="ContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controles.ContinueKt" />
       <module name="udemy-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RefatorandoParaWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controles.RefatorandoParaWhenKt" />
+    <configuration name="DestructuringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operadores.DestructuringKt" />
       <module name="udemy-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controles.While1Kt" />
+    <configuration name="LogicosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operadores.LogicosKt" />
       <module name="udemy-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controles.While2Kt" />
+    <configuration name="RelacionaisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operadores.RelacionaisKt" />
       <module name="udemy-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.For1Kt" />
-        <item itemvalue="Kotlin.While2Kt" />
-        <item itemvalue="Kotlin.While1Kt" />
-        <item itemvalue="Kotlin.RefatorandoParaWhenKt" />
-        <item itemvalue="Kotlin.IfElseIfKt" />
+        <item itemvalue="Kotlin.LogicosKt" />
+        <item itemvalue="Kotlin.RelacionaisKt" />
+        <item itemvalue="Kotlin.AritmeticosKt" />
+        <item itemvalue="Kotlin.DestructuringKt" />
+        <item itemvalue="Kotlin.ContinueKt" />
       </list>
     </recent_temporary>
   </component>
